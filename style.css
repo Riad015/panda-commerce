@@ -41,3 +41,18 @@
     border: none;
     box-shadow: 5px 5px 10px gray;
 }
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.contact-us{
+    background-color:#feeae9 ;
+    height: 300px;
+    border-radius: 10px;
+}
+.contact-us h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
