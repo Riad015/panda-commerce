@@ -18,3 +18,26 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1{
+    background-image: linear-gradient(90deg, #cd7922, #d4b60d);
+}
+.cat2{
+    background-image: linear-gradient(90deg, #cb1670, #c80e69);
+}
+.cat3{
+    background-image: linear-gradient(90deg, #3865e2, #3300e5);
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px gray;
+}
